@@ -1,6 +1,6 @@
 # Akka & Docker
 
-# Hacking Akka / Docker template from Activator (mmulji)
+Hacking Akka / Docker template from Activator (mmulji)
 
 For a detailed description read [this blog entry](http://mukis.de/pages/akka-cluster-with-docker-containers/).
 
